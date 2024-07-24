@@ -11,6 +11,7 @@ Download tar file for java-17 and unarchive it.
 ![image](https://github.com/user-attachments/assets/8fa56cf0-498d-45c8-ad9a-676f79131d68)
 <br><br/>
 Change JAVA_HOME and PATH in /etc/profile file as shown in screenshot below.
+
 ![image](https://github.com/user-attachments/assets/509c6ffa-1db6-4e29-8c41-4c4838f45bfe)
 ![image](https://github.com/user-attachments/assets/d9c8d4bd-8b60-44de-bb60-dc5c78f89e48)
 
